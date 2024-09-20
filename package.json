@@ -1,0 +1,14 @@
+{
+  "name": "js-testing-jest",
+  "version": "1.0.0",
+  "description": "JavaScript Testing using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Swarnab Banerjee",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
